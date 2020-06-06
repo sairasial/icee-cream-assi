@@ -1,0 +1,225 @@
+.bgimage{
+    background-image: url("images/or.jpg");
+    background-size: 100% 110%;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+.navbar{
+    background-color:rgba(253, 251, 251, 0.74) ;
+    /* background-color:#f96161; */
+    height: 3% !important;
+  
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbarNav{
+   
+    margin-left: 5%;
+  margin-top: -1%;
+
+}
+.nav-item{
+    font-weight:bolder;
+}
+
+
+
+.frst-cont-hm{
+    background-color: RGB(205, 92, 92); height:auto; padding: 50px 50px;
+}
+.inlin{
+    display: inline-block !important;
+    margin: 20px;
+}
+.scnd-cont-hm{
+     background-color:white; padding: 50px 70px;
+     line-height: 35px;
+     font-size: 25px;
+}
+.red-font-h-one{
+     color: red; font-family: cursive;
+}
+.abd{
+    font-size: 50px; 
+     font-family: cursive;
+      /* margin:50px 200px ;  */
+      color: rgb(226, 222, 219);
+}
+.thrd-cont-hm{
+    background-color: RGB(205, 92, 92); height: auto; padding: 40px 80px;
+}
+.whit-txt{
+    color: white;
+}
+
+#img1{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    padding: 50px;
+    height: 350px;
+    z-index: 20;
+}
+#img2{
+    position: absolute;
+    top: 500px;
+    right: 30px;
+    padding: 30px;
+    height: 300px;
+    z-index: 20;
+}
+.forth-cont-hm{
+    /* padding-top: 20px;
+    height:500px; */
+}
+.row1{
+    display: inline-flex;
+    padding: 55px;
+}
+/* #mar-left{
+    margin-left: 80px;
+} */
+.our-ser{
+    border-radius: 20px;
+    border-style: solid;
+    height: 200px;
+    color: white;
+}
+
+.teamimg{
+    display: inline;
+    height: 200px;
+    margin: 60px;
+}
+.card{
+    display: inline-block !important;
+    margin: 10px;
+}
+.card-img-top{
+    height: 350px !important;
+}
+.card-text {
+    color: black;
+}
+.card-text .text-muted{
+    color: red !important;
+    font-weight: 100 !important;
+}
+.fa-shopping-cart{
+    height: 30px !important;
+}
+.ffth-cont-hm{
+    background-color: RGB(205, 92, 92); height: auto; 
+    /* padding: 30px 80px; */
+}
+.sixc{
+    padding-left: 40px;
+    margin-left: 20px;
+    width: 30%;
+    display: inline-block;
+    margin-top: 10px;
+}
+/* .wtext{
+    color: white;
+}
+
+.sixc-whc{
+    border-radius: 10px;
+    background-color: white;
+} */
+.icn-size{
+    height: 40px !important;
+    margin: 5px;
+}
+.svn-cont{
+    background-color: RGB(198, 40, 40);
+    height: 30px;
+
+}
+/* About */
+
+
+.ab-frst-cont{
+    height: 350px!important;
+}
+.ab-1st-cont{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.scnd-cont-ab{
+    background-color:white; padding: 50px 70px;
+    line-height: 30px;
+ 
+}
+.scnd-cont-contact{
+<div class="scnd-cont" style="height: auto; background-color:white; padding: 50px 70px;">
+}
+.ab-4-cont{
+    background-color: white;
+    padding: 60px;
+    
+}
+.card{
+    /* display: inline-flex;
+    margin-left: 60px; */
+}
+.card-title{
+    color: RGB(205, 92, 92);
+}
+.card-header{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    color: black !important;
+}
+/*Contact page*/
+
+.scnd-cont-contact{
+    display: inline-block;
+    padding: 50px;
+    margin-left: 80px;
+}
+.redc{
+    background-color: RGB(205, 92, 92);
+}
+.contact-red-cnt{
+    color: white;
+    padding: 2px;
+    height: auto;
+}
+
+
+/*////////////////////////////////////////*TERMS PAGE*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+.terms{
+    /* padding: 10px; */
+    padding-top: 40px ;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.red-txt{
+    color: tomato !important;
+    
+}
+.card-footer{
+    background-color: rgb(190, 235, 101) !important;
+}
+
+
+
+@media screen and(max-width: 500px ){
+    .navbar,.abd{
+        margin-right: 10px;
+
+    }
+}
+
+
